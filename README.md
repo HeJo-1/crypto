@@ -1,7 +1,7 @@
 # Şifreleme Uygulaması (Encryption Application)
 
 Lütfen Bir Dil seçin / Please select a language
-[Türkçe](https://github.com/HeJo-1/crypto/edit/main/README.md#t%C3%BCrk%C3%A7e) / [English](https://github.com/HeJo-1/crypto/edit/main/README.md#english-1)
+[Türkçe](#türkçe) / [English](#english)
 
 ---
 
